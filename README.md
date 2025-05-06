@@ -57,7 +57,7 @@ The graphical user interface is designed using the `customtkinter` library, offe
 
 ## License
 
-copyright adam rlsharkawy 2025
+Copyright adam elsharkawy 2025 ©️
 
 
 Licensed under the Apache License, Version 2.0 (the "License");
